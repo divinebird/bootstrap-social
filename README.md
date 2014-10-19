@@ -10,33 +10,14 @@ Social Buttons made in pure CSS based on
 Installation
 ------------
 
-Include the `bootstrap-social.css` or `bootstrap-social.less` in your project, or
-install it through [Bower](http://bower.io/):
-
-    bower install bootstrap-social
+Include the `bootstrap-social.css` in your project
 
 Available classes
 -----------------
- - `btn-adn`
- - `btn-bitbucket`
- - `btn-dropbox`
  - `btn-facebook`
- - `btn-flickr`
- - `btn-foursquare`
- - `btn-github`
  - `btn-google-plus`
- - `btn-instagram`
- - `btn-linkedin`
- - `btn-microsoft`
- - `btn-openid`
- - `btn-pinterest`
- - `btn-reddit`
- - `btn-soundcloud`
- - `btn-tumblr`
- - `btn-twitter`
- - `btn-vimeo`
  - `btn-vk`
- - `btn-yahoo`
+ - `btn-ok`
 
 Examples
 --------
